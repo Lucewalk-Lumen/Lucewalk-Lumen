@@ -11,24 +11,24 @@
 I build grounded, auditable experts for real research, teaching and HR workflows — theory & scale knowledge bases that cite their sources, teaching packs with quality gates on every deliverable, and a China-market HRM bench with privacy engineering built in.
 
 ## 🔬 Research
-- **[obhrm-brain-trust](https://github.com/Lucewalk-Lumen/obhrm-brain-trust)** — theory & scale knowledge base: 12-chapter textbook × 145 theories × 601 scales × 108 R methods, grounded citations, explicit "not covered by source" labels
-- **[academic-literature-analysis-team](https://github.com/Lucewalk-Lumen/academic-literature-analysis-team)** — bibliometrics over your own library, ending in a review skeleton you can write against
-- **[mplus-stats-coach](https://github.com/Lucewalk-Lumen/mplus-stats-coach)** — syntax lab, method advisor and output clinic for Mplus
-- **[endnote-analysis](https://github.com/Lucewalk-Lumen/endnote-analysis)** — citation structure and review skeletons from an EndNote library
+- **[obhrm-brain-trust](https://github.com/Lucewalk-Lumen/obhrm-brain-trust)** — Theory & scale knowledge base: 12-chapter textbook × 145 theories × 601 scales × 108 R methods, grounded citations, explicit "not covered by source" labels
+- **[academic-literature-analysis-team](https://github.com/Lucewalk-Lumen/academic-literature-analysis-team)** — Bibliometrics over your own library, ending in a review skeleton you can write against
+- **[mplus-stats-coach](https://github.com/Lucewalk-Lumen/mplus-stats-coach)** — Syntax lab, method advisor and output clinic for Mplus
+- **[endnote-analysis](https://github.com/Lucewalk-Lumen/endnote-analysis)** — Citation structure and review skeletons from an EndNote library
 
 ## 🎓 Teaching
-- **[teaching-helper-team](https://github.com/Lucewalk-Lumen/teaching-helper-team)** — nine experts, eighteen skills, three-layer architecture, six preloaded workflows, de-AI & citation-fidelity gates
-- **[course-tutor](https://github.com/Lucewalk-Lumen/course-tutor)** — course companion for teachers, full build source, roster → analytics → weekly briefings
+- **[teaching-helper-team](https://github.com/Lucewalk-Lumen/teaching-helper-team)** — Nine experts, eighteen skills, three-layer architecture, six preloaded workflows, de-AI & citation-fidelity gates
+- **[course-tutor](https://github.com/Lucewalk-Lumen/course-tutor)** — Course companion for teachers, full build source, roster → analytics → weekly briefings
 - **[campus-ppt-helper](https://github.com/Lucewalk-Lumen/campus-ppt-helper)** · **[erp-teaching-team](https://github.com/Lucewalk-Lumen/erp-teaching-team)** · **[college-competition-coaching-team](https://github.com/Lucewalk-Lumen/college-competition-coaching-team)**
 
 ## 🧭 Practice & tooling
-- **[hrm-advisory-corps](https://github.com/Lucewalk-Lumen/hrm-advisory-corps)** — one orchestrator + eight specialists across the HR value chain; PII handled by desensitized archives and an encrypted vault
-- **[workbuddy-expert-studio](https://github.com/Lucewalk-Lumen/workbuddy-expert-studio)** — the factory behind every product on this page
+- **[hrm-advisory-corps](https://github.com/Lucewalk-Lumen/hrm-advisory-corps)** — One orchestrator + eight specialists across the HR value chain; PII handled by desensitized archives and an encrypted vault
+- **[workbuddy-expert-studio](https://github.com/Lucewalk-Lumen/workbuddy-expert-studio)** — The factory behind every product on this page
 - **[kb-library-team](https://github.com/Lucewalk-Lumen/kb-library-team)** · **[ai-butler](https://github.com/Lucewalk-Lumen/ai-butler)** · **[distill](https://github.com/Lucewalk-Lumen/distill)** · **[ghost-workspace-hunter](https://github.com/Lucewalk-Lumen/ghost-workspace-hunter)**
 
 ## 🏷 The collection
 
-**[Lucewalk Lumen · 沐光行客](https://github.com/Lucewalk-Lumen/about-me)** — the brand hub: every product with its focus, the design philosophy, and the install guide.
+**[Lucewalk Lumen · 沐光行客](https://github.com/Lucewalk-Lumen/about-me)** — The brand hub: every product with its focus, the design philosophy, and the install guide.
 
 Each package lives in its own repository with focused docs, its own issue tracker and its own release cycle. MIT licensed, versioned from a single source of truth, and citable via `CITATION.cff`.
 
