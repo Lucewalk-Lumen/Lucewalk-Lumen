@@ -11,6 +11,7 @@ I'm a faculty member working in organizational behavior and human-resource manag
 - **[academic-literature-analysis-team](https://github.com/Lucewalk-Lumen/academic-literature-analysis-team)** — bibliometrics over your own library, ending in a review skeleton you can write against
 - **[mplus-stats-coach](https://github.com/Lucewalk-Lumen/mplus-stats-coach)** — syntax lab, method advisor and output clinic for Mplus
 - **[endnote-analysis](https://github.com/Lucewalk-Lumen/endnote-analysis)** — citation structure and review skeletons from an EndNote library
+- **[obhrm-research-collaboration-team](https://github.com/Lucewalk-Lumen/obhrm-research-collaboration-team)** — public landing page for the full OBHRM research pipeline: seven agents across the lifecycle, install via the WorkBuddy Expert Center
 
 ## 🎓 Teaching
 - **[teaching-helper-team](https://github.com/Lucewalk-Lumen/teaching-helper-team)** — nine experts, eighteen skills, three-layer architecture, six preloaded workflows, de-AI & citation-fidelity gates
@@ -20,7 +21,7 @@ I'm a faculty member working in organizational behavior and human-resource manag
 ## 🧭 Practice & tooling
 - **[hrm-advisory-corps](https://github.com/Lucewalk-Lumen/hrm-advisory-corps)** — one orchestrator + eight specialists across the HR value chain; PII handled by desensitized archives and an encrypted vault
 - **[workbuddy-expert-studio](https://github.com/Lucewalk-Lumen/workbuddy-expert-studio)** — the workshop where these packages are built
-- **[kb-library-team](https://github.com/Lucewalk-Lumen/kb-library-team)** · **[ai-butler](https://github.com/Lucewalk-Lumen/ai-butler)** · **[distill](https://github.com/Lucewalk-Lumen/distill)** · **[ghost-workspace-hunter](https://github.com/Lucewalk-Lumen/ghost-workspace-hunter)**
+- **[kb-library-team](https://github.com/Lucewalk-Lumen/kb-library-team)** · **[ai-butler](https://github.com/Lucewalk-Lumen/ai-butler)** · **[distill](https://github.com/Lucewalk-Lumen/distill)** · **[ghost-workspace-hunter](https://github.com/Lucewalk-Lumen/ghost-workspace-hunter)** · **[fde-frontline-team](https://github.com/Lucewalk-Lumen/fde-frontline-team)** · **[touyan-expert-team](https://github.com/Lucewalk-Lumen/touyan-expert-team)**
 
 ## 🏷 The collection
 
@@ -39,9 +40,9 @@ Each package lives in its own repository with focused docs, its own issue tracke
 
 我是研究组织行为与人力资源管理的高校教师,也是多本学术期刊的同行评审人,并开设《生成式人工智能素养》课程。这里收录的是我为自己的研究、教学与 HR 实务搭建的工具集——量表与理论库带文献出处,教学包对每个交付物跑质量门禁,HRM 咨询包内置隐私工程。我把它们作为开放包发布,方便他人借鉴这套方法。
 
-- **研究线**:智囊团(12 章教材 × 145 理论 × 601 量表 × 108 R 方法)、文献计量分析团、Mplus 统计教练、EndNote 分析团
+- **研究线**:智囊团(12 章教材 × 145 理论 × 601 量表 × 108 R 方法)、文献计量分析团、Mplus 统计教练、EndNote 分析团、OBHRM 研究协作团(公开落地页·七智能体全流程研究流水线)
 - **教学线**:教学帮帮团(九专家十八技能)、课程伴学精灵(含完整源码)、校园演示帮手团、ERP 教学团、大学生赛事教练团
-- **实践与工具线**:HRM 实战参谋团(PII 加密处理)、专家开发工坊(本合集的诞生地)、智博资料室、教师工作台、蒸馏师、幽灵工作空间猎手
+- **实践与工具线**:HRM 实战参谋团(PII 加密处理)、专家开发工坊(本合集的诞生地)、智博资料室、教师工作台、蒸馏师、幽灵工作空间猎手、FDE 前线部署团、投研星图团
 
 ### 合集门户
 
