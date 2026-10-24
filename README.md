@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/347014200" width="120" alt="沐光行客" />
 </p>
 
-# Hi, I'm 沐光行客 (Xing Bu) 👋
+# Hi, I'm 沐光行客 👋
 
 **Organizational Behavior & HRM researcher · University lecturer · Academic peer reviewer**
 
@@ -35,7 +35,7 @@ Each package lives in its own repository with focused docs, its own issue tracke
 <details>
 <summary><strong>📖 中文说明(Chinese)</strong></summary>
 
-## 你好,我是沐光行客(Xing Bu)👋
+## 你好,我是沐光行客👋
 
 **组织行为学与人力资源管理(OBHRM)研究者 · 高校教师 · 学术期刊同行评审人**
 
