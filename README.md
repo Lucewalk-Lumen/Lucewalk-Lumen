@@ -11,24 +11,24 @@
 I build grounded, auditable experts for real research, teaching and HR workflows — theory & scale knowledge bases that cite their sources, teaching packs with quality gates on every deliverable, and a China-market HRM bench with privacy engineering built in.
 
 ## 🔬 Research
-- **[obhrm-brain-trust](https://github.com/Lucewalk-Lumen/obhrm-brain-trust)** — theory & scale knowledge base: 12-chapter textbook × 145 theories × 601 scales × 108 R methods, grounded citations, explicit "not covered by source" labels
-- **[academic-literature-analysis-team](https://github.com/Lucewalk-Lumen/academic-literature-analysis-team)** — bibliometrics over your own library, ending in a review skeleton you can write against
-- **[mplus-stats-coach](https://github.com/Lucewalk-Lumen/mplus-stats-coach)** — syntax lab, method advisor and output clinic for Mplus
-- **[endnote-analysis](https://github.com/Lucewalk-Lumen/endnote-analysis)** — citation structure and review skeletons from an EndNote library
+- **[Obhrm-brain-trust](https://github.com/Lucewalk-Lumen/Obhrm-brain-trust)** — theory & scale knowledge base: 12-chapter textbook × 145 theories × 601 scales × 108 R methods, grounded citations, explicit "not covered by source" labels
+- **[Academic-literature-analysis-team](https://github.com/Lucewalk-Lumen/Academic-literature-analysis-team)** — bibliometrics over your own library, ending in a review skeleton you can write against
+- **[Mplus-stats-coach](https://github.com/Lucewalk-Lumen/Mplus-stats-coach)** — syntax lab, method advisor and output clinic for Mplus
+- **[Endnote-analysis](https://github.com/Lucewalk-Lumen/Endnote-analysis)** — citation structure and review skeletons from an EndNote library
 
 ## 🎓 Teaching
-- **[teaching-helper-team](https://github.com/Lucewalk-Lumen/teaching-helper-team)** — nine experts, eighteen skills, three-layer architecture, six preloaded workflows, de-AI & citation-fidelity gates
-- **[course-tutor](https://github.com/Lucewalk-Lumen/course-tutor)** — course companion for teachers, full build source, roster → analytics → weekly briefings
-- **[campus-ppt-helper](https://github.com/Lucewalk-Lumen/campus-ppt-helper)** · **[erp-teaching-team](https://github.com/Lucewalk-Lumen/erp-teaching-team)** · **[college-competition-coaching-team](https://github.com/Lucewalk-Lumen/college-competition-coaching-team)**
+- **[Teaching-helper-team](https://github.com/Lucewalk-Lumen/Teaching-helper-team)** — nine experts, eighteen skills, three-layer architecture, six preloaded workflows, de-AI & citation-fidelity gates
+- **[Course-tutor](https://github.com/Lucewalk-Lumen/Course-tutor)** — course companion for teachers, full build source, roster → analytics → weekly briefings
+- **[Campus-ppt-helper](https://github.com/Lucewalk-Lumen/Campus-ppt-helper)** · **[Erp-teaching-team](https://github.com/Lucewalk-Lumen/Erp-teaching-team)** · **[College-competition-coaching-team](https://github.com/Lucewalk-Lumen/College-competition-coaching-team)**
 
 ## 🧭 Practice & tooling
-- **[hrm-advisory-corps](https://github.com/Lucewalk-Lumen/hrm-advisory-corps)** — one orchestrator + eight specialists across the HR value chain; PII handled by desensitized archives and an encrypted vault
-- **[workbuddy-expert-studio](https://github.com/Lucewalk-Lumen/workbuddy-expert-studio)** — the factory behind every product on this page
-- **[kb-library-team](https://github.com/Lucewalk-Lumen/kb-library-team)** · **[ai-butler](https://github.com/Lucewalk-Lumen/ai-butler)** · **[distill](https://github.com/Lucewalk-Lumen/distill)** · **[ghost-workspace-hunter](https://github.com/Lucewalk-Lumen/ghost-workspace-hunter)**
+- **[Hrm-advisory-corps](https://github.com/Lucewalk-Lumen/Hrm-advisory-corps)** — one orchestrator + eight specialists across the HR value chain; PII handled by desensitized archives and an encrypted vault
+- **[Workbuddy-expert-studio](https://github.com/Lucewalk-Lumen/Workbuddy-expert-studio)** — the factory behind every product on this page
+- **[Kb-library-team](https://github.com/Lucewalk-Lumen/Kb-library-team)** · **[Ai-butler](https://github.com/Lucewalk-Lumen/Ai-butler)** · **[Distill](https://github.com/Lucewalk-Lumen/Distill)** · **[Ghost-workspace-hunter](https://github.com/Lucewalk-Lumen/Ghost-workspace-hunter)**
 
 ## 🏷 The collection
 
-**[Lucewalk Lumen · 沐光行客](https://github.com/Lucewalk-Lumen/about-me)** — the brand hub: every product with its focus, the design philosophy, and the install guide.
+**[Lucewalk Lumen · 沐光行客](https://github.com/Lucewalk-Lumen/About-me)** — the brand hub: every product with its focus, the design philosophy, and the install guide.
 
 Each package lives in its own repository with focused docs, its own issue tracker and its own release cycle. MIT licensed, versioned from a single source of truth, and citable via `CITATION.cff`.
 
@@ -49,7 +49,7 @@ Each package lives in its own repository with focused docs, its own issue tracke
 
 ### 合集门户
 
-**[Lucewalk Lumen · 沐光行客](https://github.com/Lucewalk-Lumen/about-me)** —— 品牌门户:全部产品、理念与安装指南。
+**[Lucewalk Lumen · 沐光行客](https://github.com/Lucewalk-Lumen/About-me)** —— 品牌门户:全部产品、理念与安装指南。
 
 每个包独立成仓,拥有自己的文档、Issue 与发布周期;MIT 许可,版本真源唯一,并提供 `CITATION.cff` 供规范引用。
 
