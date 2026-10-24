@@ -13,7 +13,7 @@ I build grounded, auditable experts for real research, teaching and HR workflows
 ## 📦 The collection
 Sixteen-plus expert teams, agents and skills across **three product lines — Research · Teaching · Practice & tooling** — each in its own repository with focused docs, its own issue tracker and its own release cycle.
 
-> **👉 Full catalog, product-by-product details, install & citation:** **[Lucewalk Lumen · 沐光行客](https://github.com/Lucewalk-Lumen/About-Me)**
+> **👉 Full catalog, product-by-product details, install & citation:** **[Lucewalk Lumen · 沐光行客](https://github.com/Lucewalk-Lumen/about-me)**
 
 MIT licensed, versioned from a single source of truth, and citable via `CITATION.cff`.
 
@@ -30,7 +30,7 @@ MIT licensed, versioned from a single source of truth, and citable via `CITATION
 
 十六余个专家团、智能体与技能,分**研究 · 教学 · 实践与工具**三条产品线,各自独立成仓、拥有自己的文档、Issue 与发布周期。
 
-> **👉 完整产品目录、逐项说明、安装与引用方式:** **[Lucewalk Lumen · 沐光行客](https://github.com/Lucewalk-Lumen/About-Me)**
+> **👉 完整产品目录、逐项说明、安装与引用方式:** **[Lucewalk Lumen · 沐光行客](https://github.com/Lucewalk-Lumen/about-me)**
 
 MIT 许可,版本真源唯一,并提供 `CITATION.cff` 供规范引用。
 
