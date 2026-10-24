@@ -10,27 +10,12 @@
 
 I build grounded, auditable experts for real research, teaching and HR workflows — theory & scale knowledge bases that cite their sources, teaching packs with quality gates on every deliverable, and a China-market HRM bench with privacy engineering built in.
 
-## 🔬 Research
-- **[OBHRM-Brain-Trust](https://github.com/Lucewalk-Lumen/OBHRM-Brain-Trust)** — theory & scale knowledge base: 12-chapter textbook × 145 theories × 601 scales × 108 R methods, grounded citations, explicit "not covered by source" labels
-- **[Academic-Literature-Analysis-Team](https://github.com/Lucewalk-Lumen/Academic-Literature-Analysis-Team)** — bibliometrics over your own library, ending in a review skeleton you can write against
-- **[Mplus-Stats-Coach](https://github.com/Lucewalk-Lumen/Mplus-Stats-Coach)** — syntax lab, method advisor and output clinic for Mplus
-- **[Endnote-Analysis](https://github.com/Lucewalk-Lumen/Endnote-Analysis)** — citation structure and review skeletons from an EndNote library
+## 📦 The collection
+Sixteen-plus expert teams, agents and skills across **three product lines — Research · Teaching · Practice & tooling** — each in its own repository with focused docs, its own issue tracker and its own release cycle.
 
-## 🎓 Teaching
-- **[Teaching-Helper-Team](https://github.com/Lucewalk-Lumen/Teaching-Helper-Team)** — nine experts, eighteen skills, three-layer architecture, six preloaded workflows, de-AI & citation-fidelity gates
-- **[Course-Tutor](https://github.com/Lucewalk-Lumen/Course-Tutor)** — course companion for teachers, full build source, roster → analytics → weekly briefings
-- **[Campus-PPT-Helper](https://github.com/Lucewalk-Lumen/Campus-PPT-Helper)** · **[ERP-Teaching-Team](https://github.com/Lucewalk-Lumen/ERP-Teaching-Team)** · **[College-Competition-Coaching-Team](https://github.com/Lucewalk-Lumen/College-Competition-Coaching-Team)**
+> **👉 Full catalog, product-by-product details, install & citation:** **[Lucewalk Lumen · 沐光行客](https://github.com/Lucewalk-Lumen/About-Me)**
 
-## 🧭 Practice & tooling
-- **[HRM-Advisory-Corps](https://github.com/Lucewalk-Lumen/HRM-Advisory-Corps)** — one orchestrator + eight specialists across the HR value chain; PII handled by desensitized archives and an encrypted vault
-- **[Workbuddy-Expert-Studio](https://github.com/Lucewalk-Lumen/Workbuddy-Expert-Studio)** — the factory behind every product on this page
-- **[KB-Library-Team](https://github.com/Lucewalk-Lumen/KB-Library-Team)** · **[AI-Butler](https://github.com/Lucewalk-Lumen/AI-Butler)** · **[Distill](https://github.com/Lucewalk-Lumen/Distill)** · **[Ghost-Workspace-Hunter](https://github.com/Lucewalk-Lumen/Ghost-Workspace-Hunter)**
-
-## 🏷 The collection
-
-**[Lucewalk Lumen · 沐光行客](https://github.com/Lucewalk-Lumen/About-Me)** — the brand hub: every product with its focus, the design philosophy, and the install guide.
-
-Each package lives in its own repository with focused docs, its own issue tracker and its own release cycle. MIT licensed, versioned from a single source of truth, and citable via `CITATION.cff`.
+MIT licensed, versioned from a single source of truth, and citable via `CITATION.cff`.
 
 <details>
 <summary><strong>📖 中文说明(Chinese)</strong></summary>
@@ -43,14 +28,10 @@ Each package lives in its own repository with focused docs, its own issue tracke
 
 我做的是**可溯源、可审计**的专家包:量表与理论库带文献出处,教学包对每个交付物跑质量门禁,HRM 咨询包内置隐私工程。
 
-- **研究线**:智囊团(12 章教材 × 145 理论 × 601 量表 × 108 R 方法)、文献计量分析团、Mplus 统计教练、EndNote 分析团
-- **教学线**:教学帮帮团(九专家十八技能)、课程伴学精灵(含完整源码)、校园演示帮手团、ERP 教学团、大学生赛事教练团
-- **实践与工具线**:HRM 实战参谋团(PII 加密处理)、专家开发工坊(本合集的诞生地)、智博资料室、教师工作台、蒸馏师、幽灵工作空间猎手
+十六余个专家团、智能体与技能,分**研究 · 教学 · 实践与工具**三条产品线,各自独立成仓、拥有自己的文档、Issue 与发布周期。
 
-### 合集门户
+> **👉 完整产品目录、逐项说明、安装与引用方式:** **[Lucewalk Lumen · 沐光行客](https://github.com/Lucewalk-Lumen/About-Me)**
 
-**[Lucewalk Lumen · 沐光行客](https://github.com/Lucewalk-Lumen/About-Me)** —— 品牌门户:全部产品、理念与安装指南。
-
-每个包独立成仓,拥有自己的文档、Issue 与发布周期;MIT 许可,版本真源唯一,并提供 `CITATION.cff` 供规范引用。
+MIT 许可,版本真源唯一,并提供 `CITATION.cff` 供规范引用。
 
 </details>
