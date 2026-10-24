@@ -11,7 +11,7 @@
 I build grounded, auditable experts for real research, teaching and HR workflows — theory & scale knowledge bases that cite their sources, teaching packs with quality gates on every deliverable, and a China-market HRM bench with privacy engineering built in.
 
 ## 🔬 Research
-- **[Obhrm-Brain-Trust](https://github.com/Lucewalk-Lumen/Obhrm-Brain-Trust)** — theory & scale knowledge base: 12-chapter textbook × 145 theories × 601 scales × 108 R methods, grounded citations, explicit "not covered by source" labels
+- **[OBHRM-Brain-Trust](https://github.com/Lucewalk-Lumen/OBHRM-Brain-Trust)** — theory & scale knowledge base: 12-chapter textbook × 145 theories × 601 scales × 108 R methods, grounded citations, explicit "not covered by source" labels
 - **[Academic-Literature-Analysis-Team](https://github.com/Lucewalk-Lumen/Academic-Literature-Analysis-Team)** — bibliometrics over your own library, ending in a review skeleton you can write against
 - **[Mplus-Stats-Coach](https://github.com/Lucewalk-Lumen/Mplus-Stats-Coach)** — syntax lab, method advisor and output clinic for Mplus
 - **[Endnote-Analysis](https://github.com/Lucewalk-Lumen/Endnote-Analysis)** — citation structure and review skeletons from an EndNote library
@@ -19,12 +19,12 @@ I build grounded, auditable experts for real research, teaching and HR workflows
 ## 🎓 Teaching
 - **[Teaching-Helper-Team](https://github.com/Lucewalk-Lumen/Teaching-Helper-Team)** — nine experts, eighteen skills, three-layer architecture, six preloaded workflows, de-AI & citation-fidelity gates
 - **[Course-Tutor](https://github.com/Lucewalk-Lumen/Course-Tutor)** — course companion for teachers, full build source, roster → analytics → weekly briefings
-- **[Campus-Ppt-Helper](https://github.com/Lucewalk-Lumen/Campus-Ppt-Helper)** · **[Erp-Teaching-Team](https://github.com/Lucewalk-Lumen/Erp-Teaching-Team)** · **[College-Competition-Coaching-Team](https://github.com/Lucewalk-Lumen/College-Competition-Coaching-Team)**
+- **[Campus-PPT-Helper](https://github.com/Lucewalk-Lumen/Campus-PPT-Helper)** · **[ERP-Teaching-Team](https://github.com/Lucewalk-Lumen/ERP-Teaching-Team)** · **[College-Competition-Coaching-Team](https://github.com/Lucewalk-Lumen/College-Competition-Coaching-Team)**
 
 ## 🧭 Practice & tooling
-- **[Hrm-Advisory-Corps](https://github.com/Lucewalk-Lumen/Hrm-Advisory-Corps)** — one orchestrator + eight specialists across the HR value chain; PII handled by desensitized archives and an encrypted vault
+- **[HRM-Advisory-Corps](https://github.com/Lucewalk-Lumen/HRM-Advisory-Corps)** — one orchestrator + eight specialists across the HR value chain; PII handled by desensitized archives and an encrypted vault
 - **[Workbuddy-Expert-Studio](https://github.com/Lucewalk-Lumen/Workbuddy-Expert-Studio)** — the factory behind every product on this page
-- **[Kb-Library-Team](https://github.com/Lucewalk-Lumen/Kb-Library-Team)** · **[Ai-Butler](https://github.com/Lucewalk-Lumen/Ai-Butler)** · **[Distill](https://github.com/Lucewalk-Lumen/Distill)** · **[Ghost-Workspace-Hunter](https://github.com/Lucewalk-Lumen/Ghost-Workspace-Hunter)**
+- **[KB-Library-Team](https://github.com/Lucewalk-Lumen/KB-Library-Team)** · **[AI-Butler](https://github.com/Lucewalk-Lumen/AI-Butler)** · **[Distill](https://github.com/Lucewalk-Lumen/Distill)** · **[Ghost-Workspace-Hunter](https://github.com/Lucewalk-Lumen/Ghost-Workspace-Hunter)**
 
 ## 🏷 The collection
 
