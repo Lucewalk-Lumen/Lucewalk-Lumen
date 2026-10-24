@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/347014200" width="120" alt="Xing Bu" />
+  <img src="https://avatars.githubusercontent.com/u/347014200" width="120" alt="沐光行客" />
 </p>
 
-# Hi, I'm Xing Bu 👋
+# Hi, I'm 沐光行客 👋
 
 **OB & HRM academic · author of 16+ expert teams and skills for the WorkBuddy AI assistant platform**
 
@@ -35,7 +35,7 @@ Each package lives in its own repository with focused docs, its own issue tracke
 <details>
 <summary><strong>📖 中文说明(Chinese)</strong></summary>
 
-## 你好,我是 Xing Bu 👋
+## 你好,我是 沐光行客 👋
 
 **OB & HRM 学术研究者 · WorkBuddy 平台 16+ 专家团/专家/技能作者**
 
