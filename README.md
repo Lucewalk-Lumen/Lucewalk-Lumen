@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/347014200" width="120" alt="沐光行客" />
-</p>
-
 # Hi, I'm 沐光行客 👋
 
 **Organizational Behavior & HRM researcher · University lecturer · Academic peer reviewer**
